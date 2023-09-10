@@ -19,7 +19,7 @@ step 3:Also keep a check of the “out of bound” conditions while going in a p
 
 step 4:Whenever you reach the destination(puppy) it’s very important to get back in the recursion tree and While getting back, keep on unmarking the visited array for the respective direction.
 
-###Test cases 1:
+##Test cases 1:
 
 Enter floor: 4
 Enter room: 4
@@ -106,7 +106,7 @@ Turn 6:
  --- --- --- ---
 Player 1 found the puppy and wins!
 
-###Test case 2:
+##Test case 2:
 Enter floor: 4
 Enter room: 4
 
